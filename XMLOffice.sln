@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLOffice", "XMLOffice.csproj", "{414F6852-F4AD-4E4B-8C06-160C4D9C3509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414F6852-F4AD-4E4B-8C06-160C4D9C3509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{414F6852-F4AD-4E4B-8C06-160C4D9C3509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{414F6852-F4AD-4E4B-8C06-160C4D9C3509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{414F6852-F4AD-4E4B-8C06-160C4D9C3509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C273A87-1436-4D1B-A964-F34C56909AE5}
+	EndGlobalSection
+EndGlobal
